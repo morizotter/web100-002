@@ -9,7 +9,7 @@ Usage
 - Bootstrap(CDN)
 - Compass(SASS)
 
-Environment
+Hosting
 -----------
 
 - gh-pages
