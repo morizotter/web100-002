@@ -17,4 +17,6 @@ Environment
 Author
 -------
 
-- [Morita naoki](http://moritanaoki.com) [[Twitter](http://twitter.com/morizotter) | [Facebook](http://facebook.com/morizotter)]
+- [Morita naoki](http://moritanaoki.com)
+  - [Twitter](http://twitter.com/morizotter)
+  - [Facebook](http://facebook.com/morizotter)
