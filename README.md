@@ -1,4 +1,8 @@
 web100-002
 ==========
 
-002
+Usage
+------
+
+- Bootstrap(CDN)
+- Compass(SASS)
